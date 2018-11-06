@@ -3344,3 +3344,7 @@ input, select, textarea {
 	}
 
 	
+
+.grid-view li{
+	min-height: 375px;
+}
